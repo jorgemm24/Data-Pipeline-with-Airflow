@@ -15,8 +15,8 @@ por implementar
 
 El proceso extrae información del API Last.fm el cual es una plataforma de musica.
 
-Documentación del API: https://www.last.fm/api
-Web de Last.fm:  https://www.last.fm/
+- Documentación del API: https://www.last.fm/api
+- Web de Last.fm:  https://www.last.fm/
 
 Se usan los siguientes metodos del API:  
 
