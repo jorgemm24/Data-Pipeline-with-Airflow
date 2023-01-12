@@ -5,7 +5,7 @@
 Este proyecto tiene como finalidad realizar un data pipeline utilizando Airflow. 
 
 ### Arquitectura:
-por implementar
+[![8-arquitectura.png](https://i.postimg.cc/PfwLSnz9/8-arquitectura.png)](https://postimg.cc/Dm7yzDNP)
 
 ### Herramientas utilizadas:
 - Docker, Airflow, Python, API rest, VSCODE, PostgreSQL, DBeaver, Last.fm, WSL
