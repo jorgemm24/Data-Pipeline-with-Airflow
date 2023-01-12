@@ -38,7 +38,7 @@ Se utiliza el archivo .env para guardar las credenciales
 ### Python: 
 Para procesar la información se usara Python modularmente usando paquetes.
 
-### Explicación del codigo:
+### Codigo:
 
 ##### extract.py
 
