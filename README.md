@@ -7,7 +7,7 @@ Este proyecto tiene como finalidad realizar un data pipeline utilizando Airflow.
 ### Arquitectura:
 [![8-arquitectura.png](https://i.postimg.cc/PfwLSnz9/8-arquitectura.png)](https://postimg.cc/Dm7yzDNP)
 
-### Herramientas utilizadas:
+### Tecnologias y herramientas utilizadas:
 - Docker, Airflow, Python, API rest, VSCODE, PostgreSQL, DBeaver, Last.fm, WSL
 
 ![linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black&style=flat-square) ![docker](https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![aiflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=Apache-Airflow&logoColor=white&style=flat-square) ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&logoColor=white&style=flat-square) ![python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square) ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat-square) ![json](https://img.shields.io/badge/-JSON-000000?logo=JSON&logoColor=white&style=flat-square) ![postresql](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat-square) ![.env](https://img.shields.io/badge/-.ENV-ECD53F?logo=.ENV&logoColor=black&style=flat-square)
